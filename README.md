@@ -1,8 +1,7 @@
 ## 👋 Hallo, ich bin Benjamin!
 
 ### Über mich
-Ich bin ein leidenschaftlicher und erfahrener Softwareentwickler mit mehr als 12 Jahren Erfahrung in der Entwicklung von robusten und skalierbaren Anwendungen. 
-Spezialisiert auf die Entwicklung robuster Backends und skalierbarer Webanwendungen mit Fokus auf .NET-Technologien.
+Ich bin ein leidenschaftlicher Softwareentwickler mit über 12 Jahren Erfahrung in der Gestaltung und Implementierung zuverlässiger Anwendungen. Mein Schwerpunkt liegt auf der Entwicklung belastbarer Backends und skalierbarer Webanwendungen mit Fokus auf .NET-Technologien.
 
 ### Was ich mache
 - 💻 Freiberuflicher .NET-Entwickler
